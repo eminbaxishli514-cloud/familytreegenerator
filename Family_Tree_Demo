@@ -1,0 +1,218 @@
+// Sample family tree (sanitized)
+digraph Family_Tree_Demo {
+	concentrate=false fontsize=14 nodesep=0.6 rankdir=TB ranksep=1.2 ratio=auto size="28,40" splines=line
+	node [fontname=Arial fontsize=14 margin="0.3,0.2" shape=box style="rounded,filled"]
+	AAA [label=AAA color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	BBB [label=BBB color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	CCC [label=CCC color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	DDD [label="DDD
+(WW2 role A)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	EEE [label=EEE color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	FFF [label="FFF
+(WW2 role B)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	GGG [label="GGG
+(WW2 role C)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	HHH [label="HHH
+(WW2 role C)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	III [label="III
+(WW2 role D)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	JJJ [label="JJJ
+(1927-1990)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	KKK [label="KKK
+(1927-2011)" color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	LLL [label=LLL color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	MMM [label=MMM color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	NNN [label="NNN
+(1950-2000)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	OOO [label="OOO
+(1958-)" color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	PPP [label="PPP
+(1937-2005, occupation A)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	QQQ [label="QQQ
+(1955-)" color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	RRR [label="RRR
+(1932-)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	SSS [label="SSS
+(1939-, occupation B)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	TTT [label=TTT color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	UUU [label=UUU color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	VVV [label=VVV color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	WWW [label=WWW color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	XXX [label=XXX color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	YYY [label=YYY color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	ZZZ [label=ZZZ color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAB [label=AAB color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAC [label=AAC color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAD [label=AAD color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAE [label=AAE color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAF [label=AAF color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAG [label=AAG color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAH [label=AAH color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAI [label="AAI (2)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAJ [label="AAJ
+(1978-, occupation A)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAK [label="AAK
+(1982-, occupation C)" color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAL [label="AAL
+(1979-, occupation D)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAM [label="AAM
+(1983-, occupation C)" color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAN [label="AAN
+(1985-)" color="#2c2c2c" fillcolor="#f48fb1" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAO [label=AAO color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAP [label="AAP
+(2007-)" color="#2c2c2c" fillcolor="#0d47a1" fontcolor=white fontsize=14 penwidth=1.5]
+	AAQ [label="AAQ
+(2005-)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAR [label="AAR
+(2015-)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAS [label="AAS
+(2017-)" color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAT [label=AAT color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	AAU [label=AAU color="#2c2c2c" fillcolor="#90caf9" fontcolor="#1a1a1a" fontsize=14 penwidth=1.5]
+	{
+		rank=same
+		AAA
+		BBB
+		CCC
+	}
+	AAA -> DDD
+	AAA -> FFF
+	AAA -> GGG
+	AAA -> HHH
+	AAA -> III
+	{
+		rank=same
+		DDD
+		EEE
+	}
+	m_izzet [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	DDD -> m_izzet [arrowhead=none color="#777777" penwidth=1]
+	m_izzet -> EEE [arrowhead=none color="#777777" penwidth=1]
+	m_izzet -> PPP
+	m_izzet -> RRR
+	m_izzet -> SSS
+	{
+		rank=same
+		JJJ
+		KKK
+	}
+	m_mansur [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	JJJ -> m_mansur [arrowhead=none color="#777777" penwidth=1]
+	m_mansur -> KKK [arrowhead=none color="#777777" penwidth=1]
+	m_mansur -> QQQ
+	LLL -> MMM
+	MMM_sp [label="" shape=point style=invis width=0.01]
+	{
+		rank=same
+		MMM
+		MMM_sp
+	}
+	m_ehmed [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	MMM -> m_ehmed [arrowhead=none color="#777777" penwidth=1]
+	m_ehmed -> MMM_sp [arrowhead=none color="#777777" penwidth=1]
+	m_ehmed -> NNN
+	{
+		rank=same
+		NNN
+		OOO
+	}
+	m_ali_pashayev [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	NNN -> m_ali_pashayev [arrowhead=none color="#777777" penwidth=1]
+	m_ali_pashayev -> OOO [arrowhead=none color="#777777" penwidth=1]
+	m_ali_pashayev -> AAK
+	FFF_sp [label="" shape=point style=invis width=0.01]
+	{
+		rank=same
+		FFF
+		FFF_sp
+	}
+	m_nuri [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	FFF -> m_nuri [arrowhead=none color="#777777" penwidth=1]
+	m_nuri -> FFF_sp [arrowhead=none color="#777777" penwidth=1]
+	m_nuri -> TTT
+	m_nuri -> UUU
+	m_nuri -> VVV
+	III_sp [label="" shape=point style=invis width=0.01]
+	{
+		rank=same
+		III
+		III_sp
+	}
+	m_adil [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	III -> m_adil [arrowhead=none color="#777777" penwidth=1]
+	m_adil -> III_sp [arrowhead=none color="#777777" penwidth=1]
+	m_adil -> WWW
+	m_adil -> XXX
+	m_adil -> YYY
+	m_adil -> ZZZ
+	m_adil -> AAB
+	m_adil -> AAC
+	{
+		rank=same
+		RRR
+		AAD
+	}
+	m_sabir [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	RRR -> m_sabir [arrowhead=none color="#777777" penwidth=1]
+	m_sabir -> AAD [arrowhead=none color="#777777" penwidth=1]
+	m_sabir -> AAE
+	{
+		rank=same
+		AAE
+		AAF
+	}
+	m_nizami [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	AAE -> m_nizami [arrowhead=none color="#777777" penwidth=1]
+	m_nizami -> AAF [arrowhead=none color="#777777" penwidth=1]
+	m_nizami -> AAI
+	m_nizami -> AAG
+	m_nizami -> AAH
+	{
+		rank=same
+		PPP
+		QQQ
+	}
+	m1 [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	PPP -> m1 [arrowhead=none color="#777777" penwidth=1]
+	m1 -> QQQ [arrowhead=none color="#777777" penwidth=1]
+	m1 -> AAJ
+	m1 -> AAL
+	m1 -> AAN
+	{
+		rank=same
+		AAJ
+		AAK
+	}
+	m2 [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	AAJ -> m2 [arrowhead=none color="#777777" penwidth=1]
+	m2 -> AAK [arrowhead=none color="#777777" penwidth=1]
+	m2 -> AAP
+	m2 -> AAQ
+	{
+		rank=same
+		AAL
+		AAM
+	}
+	m3 [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	AAL -> m3 [arrowhead=none color="#777777" penwidth=1]
+	m3 -> AAM [arrowhead=none color="#777777" penwidth=1]
+	m3 -> AAR
+	m3 -> AAS
+	{
+		rank=same
+		AAN
+		AAO
+	}
+	m4 [label=" — " fontcolor="#555555" fontsize=12 shape=none]
+	AAN -> m4 [arrowhead=none color="#777777" penwidth=1]
+	m4 -> AAO [arrowhead=none color="#777777" penwidth=1]
+	m4 -> AAT
+	m4 -> AAU
+	edge [style=invis]
+	AAA -> DDD
+	DDD -> PPP
+	PPP -> AAJ
+	AAJ -> AAP
+	edge [style=""]
+}
